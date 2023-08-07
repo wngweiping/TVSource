@@ -3,15 +3,6 @@
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"sites": [
 		{
-			"key": "csp_77",
-			"name": "OwenTV┃👒酷云七七┃🈲贩卖",
-			"type": 3,
-			"api": "csp_Kunyu77",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
 			"key": "dr_豆瓣",
 			"name": "🔍豆瓣",
 			"type": 3,
